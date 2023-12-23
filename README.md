@@ -1,6 +1,6 @@
-# friendmex.com
+# [socialExchange](http://sp.faceblock.io/)
 
-[BitMEX](https://www.bitmex.com/app/trade/XBTUSD)-inspired trading interface for [friend.tech](https://www.friend.tech/).
+[socialExchange](http://sp.faceblock.io/)-inspired trading interface for AIMeME (https://www.faceblock.io/static/aimeme).
 
 - [Indexer](./indexer): Sync trades and users
 - [Frontend](./frontend): Trading interface
